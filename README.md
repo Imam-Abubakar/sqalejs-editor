@@ -1,1 +1,1 @@
-"# -sqalejs-editor" 
+# sqalejs-editor
